@@ -1,0 +1,9 @@
+# Node modules
+frontend/node_modules/
+# Python virtual environment
+backend/venv/
+# Cache, build, and temp files
+__pycache__/
+*.pyc
+*.log
+.env
